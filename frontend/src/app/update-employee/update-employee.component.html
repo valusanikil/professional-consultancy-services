@@ -1,0 +1,41 @@
+<div class="col-md-6 offset-md-3">
+    <h3> Update Employee </h3>
+    <form (ngSubmit) = "onSubmit()">
+    
+        <div class="form-group">
+            <label> First Name</label>
+            <input type="text" class ="form-control" id = "firstName"
+                [(ngModel)] = "employee.firstname" name = "firstName">
+        </div>
+    
+        <div class="form-group">
+            <label> Last Name</label>
+            <input type="text" class ="form-control" id = "lastName"
+                [(ngModel)] = "employee.lastname" name = "lastName">
+        </div>
+    
+        <div class="form-group">
+            <label> Skills</label>
+            <!-- <input type="text" class ="form-control" id = "skills"
+                [(ngModel)] = "employee.skills" name = "skills"> -->
+                <select class="form-control" id="skills" [(ngModel)] = "employee.skills" name = "skills">
+                    <option value="Java">Java</option>
+                    <option value="Python">Python</option>
+                    <option value="Angular">Angular</option>
+                    <option value="C#(C-Sharp)">C#(C-Sharp)</option>
+                    <option value="Devops">Devops</option>
+                    <option value="Linux">Linux</option>
+                </select>
+        </div>
+
+        <div class="form-group">
+            <label> Date</label>
+            <input type="date" class="form-control" id="date"
+            [(ngModel)]="employee.date" name="date">
+        </div>
+    
+        <button class = "btn btn-success" type ="submit">Submit</button>
+    
+    </form>
+    </div>
+

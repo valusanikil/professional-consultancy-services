@@ -1,0 +1,7 @@
+[name="title"] {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background: linear-gradient(black, blue);
+  background-clip: text;
+  font-size: 45px;
+  -webkit-text-fill-color: transparent;
+}

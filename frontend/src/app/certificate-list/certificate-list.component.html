@@ -1,0 +1,32 @@
+<button class="btn btn-outline-dark" (click)="home()" style="margin-bottom: 10px"> 🏠 Home</button>
+<h2>Certificates List</h2>
+<table class="table table-striped"> 
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Title</th>
+            <th>Category</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor ="let certificate of certificates">
+            <td>{{ certificate.certificateId }}</td>
+            <td>{{ certificate.title }}</td>
+            <td>{{ certificate.category }}</td>
+            <td>{{ certificate.description }}</td>
+         <!-- <td class="text-center"> -->
+                <!--<button (click)="updateEmployee(employee.id)" class="btn btn-info"> Update</button>
+                <button (click)="deleteEmployee(employee.id)" class="btn btn-danger" style="margin-left: 10px">Delete</button> -->
+                <!-- <button (click)="employeeDetails(employee.id)" class="btn btn-success" style="margin-left: 10px"> View</button>
+            </td> -->
+            <!-- <td></td> -->
+
+
+        </tr>
+
+    </tbody>
+
+
+</table>
+

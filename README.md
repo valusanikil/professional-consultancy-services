@@ -184,22 +184,22 @@ PCS Backend/
 ## Screenshots
 
 ### Login Page
-<img src="" alt="">
+<img src="assets/Screenshot 2025-03-14 151717.png" alt="">
 
 ### Employee List
-![Employee List](./screenshots/employee-list.png)  
+<img src="assets/Screenshot 2025-03-14 151746.png" alt="">
 _A table of employees with search functionality, and options to update or delete._
 
 ### Add Certificate
-![Add Certificate](./screenshots/add-certificate.png)  
+<img src="assets/Screenshot 2025-03-14 151757.png" alt="">
 _Form to add a new certificate with fields for **Id**, **Title**, **Category**, and **Description**._
 
 ### Update Employee
-![Update Employee](./screenshots/update-employee.png)  
+<img src="assets/Screenshot 2025-03-14 151809.png" alt="">
 _An editable form to modify an employee’s details._
 
 ### Employee Details
-![Employee Details](./screenshots/employee-details.png)  
+<img src="assets/Screenshot 2025-03-14 151827.png" alt="">
 _A summary view of employees with a “Details” button to see further information._
 
 ---

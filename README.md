@@ -44,6 +44,29 @@ This repository contains **two projects** for the Professional Consultancy Servi
 
 ---
 
+
+## Screenshots
+
+### Login Page
+<img src="assets/Screenshot 2025-03-14 151717.png" alt="">
+
+### Employee List
+<img src="assets/Screenshot 2025-03-14 151746.png" alt="">
+_A table of employees with search functionality, and options to update or delete._
+
+### Add Certificate
+<img src="assets/Screenshot 2025-03-14 151757.png" alt="">
+_Form to add a new certificate with fields for **Id**, **Title**, **Category**, and **Description**._
+
+### Update Employee
+<img src="assets/Screenshot 2025-03-14 151809.png" alt="">
+_An editable form to modify an employee’s details._
+
+### Employee Details
+<img src="assets/Screenshot 2025-03-14 151827.png" alt="">
+_A summary view of employees with a “Details” button to see further information._
+
+
 ## Project Structure
 
 ### PCS (Frontend) Structure
@@ -178,28 +201,5 @@ PCS Backend/
    - **Add Certificate** – Provide an ID, title, category, and description.  
    - **Certificate List** – If implemented, view, update, or delete certificates.  
 5. **Logout** when finished.
-
----
-
-## Screenshots
-
-### Login Page
-<img src="assets/Screenshot 2025-03-14 151717.png" alt="">
-
-### Employee List
-<img src="assets/Screenshot 2025-03-14 151746.png" alt="">
-_A table of employees with search functionality, and options to update or delete._
-
-### Add Certificate
-<img src="assets/Screenshot 2025-03-14 151757.png" alt="">
-_Form to add a new certificate with fields for **Id**, **Title**, **Category**, and **Description**._
-
-### Update Employee
-<img src="assets/Screenshot 2025-03-14 151809.png" alt="">
-_An editable form to modify an employee’s details._
-
-### Employee Details
-<img src="assets/Screenshot 2025-03-14 151827.png" alt="">
-_A summary view of employees with a “Details” button to see further information._
 
 ---

@@ -28,7 +28,7 @@ This repository contains **two projects** for the Professional Consultancy Servi
 ## Technology Stack
 
 - **Frontend (PCS)**  
-  - **React** (or create-react-app or another framework)  
+  - **Angukar** (ng new my-app)  
   - **HTML5/CSS3**  
   - **JavaScript** (ES6+)  
 

@@ -3,7 +3,7 @@
 This repository contains **two projects** for the Professional Consultancy Services application:
 
 1. **PCS (Frontend)** – Angular client-side application for managing employees and certificates.  
-2. **PCS Backend** – A Node.js/Express (or similar) server-side application providing RESTful APIs and database connectivity.
+2. **PCS Backend** – Java server-side application providing RESTful APIs and database connectivity.
 
 ## Overview
 
@@ -31,10 +31,9 @@ This repository contains **two projects** for the Professional Consultancy Servi
   - **React** (or create-react-app or another framework)  
   - **HTML5/CSS3**  
   - **JavaScript** (ES6+)  
-  - **Axios** or **Fetch API** for making HTTP requests  
 
 - **Backend (PCS Backend)**  
-  - **Node.js** and **Express**  
+  - **Java**  
   - **Database** (e.g., MySQL, MongoDB, or PostgreSQL) – depends on your actual setup  
   - **RESTful** API design  
 

@@ -2,7 +2,7 @@
 
 This repository contains **two projects** for the Professional Consultancy Services application:
 
-1. **PCS (Frontend)** – A React (or similar) client-side application for managing employees and certificates.  
+1. **PCS (Frontend)** – Angular client-side application for managing employees and certificates.  
 2. **PCS Backend** – A Node.js/Express (or similar) server-side application providing RESTful APIs and database connectivity.
 
 ## Overview
